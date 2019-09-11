@@ -1,5 +1,5 @@
 # GitHubMigration
-Moving a repositories from GitHub.com to GitHub Enterprise
+Moving multiple repositories from GitHub.com to GitHub Enterprise
 
 
 Reference links
